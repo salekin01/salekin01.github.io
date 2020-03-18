@@ -19,4 +19,8 @@
       </ol>
     <li>Now browse your static web site using <code>&lt;user&gt;.github.io</code></li>
   </ol>
- 
+ <h3>Good articels for reuse of navigation bar on multiple pages & limitation of html include</h3>
+   <ol>
+    <li> <link>https://stackoverflow.com/questions/31954089/how-can-i-reuse-a-navigation-bar-on-multiple-pages</link> </li>
+    <li> <link>https://css-tricks.com/the-simplest-ways-to-handle-html-includes/</link> </li>
+   </ol>
